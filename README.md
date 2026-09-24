@@ -13,3 +13,6 @@
 - SECTION
 - ARTICLE
 - FOOTER
+
+## Derechos de autoría
+    No cuenta con derechos de autoría por lo que puede ser utilizada como esqueleto para cualquier página web.
